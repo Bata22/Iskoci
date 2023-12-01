@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8434FD51-F61B-4720-9A2E-840921C70E94"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "814404C0-1201-49F4-9B53-E86457C38F50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Utilities/UserDefaultHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "userId"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C29F3EF-0AEE-413E-B0BB-22D261B7821C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Main/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setUserId()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C29F3EF-0AEE-413E-B0BB-22D261B7821C - 99b11b75ab9b7f19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.UserResonse, Swift.Error&gt;) -&gt; () in Iskoci.MainViewModel.setUserId() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "5C29F3EF-0AEE-413E-B0BB-22D261B7821C - 99b11b75ab9b7ca4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.UserResonse, Swift.Error&gt;) -&gt; () in Iskoci.MainViewModel.setUserId() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A72565A1-0D63-4011-9550-E9FE041A487D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Favourites/FavouritesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "addFavoritesfetchEvents()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A72565A1-0D63-4011-9550-E9FE041A487D - 4a8b36ceb9267859"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.EventResponse, Swift.Error&gt;) -&gt; () in Iskoci.FavouritesViewModel.addFavoritesfetchEvents() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Favourites/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "340">
+               </Location>
+               <Location
+                  uuid = "A72565A1-0D63-4011-9550-E9FE041A487D - 4a8b36ceb926781f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.EventResponse, Swift.Error&gt;) -&gt; () in Iskoci.FavouritesViewModel.addFavoritesfetchEvents() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Favourites/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "A72565A1-0D63-4011-9550-E9FE041A487D - 4a8b36ceb92678ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.EventResponse, Swift.Error&gt;) -&gt; () in Iskoci.FavouritesViewModel.addFavoritesfetchEvents() -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Favourites/FavouritesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "424201CD-5497-45D3-8135-9F9BEDD0192D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/UsersService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "addFavourites(mehthod:header:url:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECE251D9-3469-407D-B18C-BFB49F1C0A0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/UsersService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "addFavourites(mehthod:header:url:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBFAAB1F-909E-4FA7-B65D-9068CFE774CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Networking/Services/UsersService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "addFavourites(mehthod:header:url:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4622B64-A492-43DC-88F3-7E538BA8ECFE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "addToFavourites(event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B44BE93-835B-4C99-AB09-8B87C39E0C3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "addToFavourites(event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB48BBF9-2A32-4A29-8358-CA24F2024A0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "addToFavourites(event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "170D9075-B1CC-4BBA-B195-D26408C79A90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "setIsFavorite(_:to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BACBA0C2-91CB-4336-80F2-FA7EFDAC31BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "removeFromFavorite(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BACBA0C2-91CB-4336-80F2-FA7EFDAC31BA - cb18303caedb944d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Iskoci.HomeViewModel.removeFromFavorite(event: Iskoci.Event) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "BACBA0C2-91CB-4336-80F2-FA7EFDAC31BA - 79c455a0bd1bcb6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Iskoci.UserResonse, Swift.Error&gt;) -&gt; () in Iskoci.HomeViewModel.removeFromFavorite(event: Iskoci.Event) -&gt; ()"
+                  moduleName = "Iskoci"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kzmvranje/Desktop/Bata/Iskoci/Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB3FCD43-17E0-490A-A48B-6BF51F19ADF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Iskoci/Scenes/Home/HomeView/HoveViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "removeFromFavorite(event:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
